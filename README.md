@@ -1,5 +1,5 @@
 # tcg app (tcg-project)
-
+![alt text](https://github.com/realgufeoliv/tcg-frontend-project/blob/main/screenshot1.png?raw=true)
 tcg store
 
 ## Install the dependencies
